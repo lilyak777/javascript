@@ -15,4 +15,4 @@ describe("sum", function () {
     });
 });
 
-console.log(sum(['a', 1, 2, 8]))
+console.log(sum(['a', 1, 2]))
